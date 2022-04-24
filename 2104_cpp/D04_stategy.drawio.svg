@@ -1,0 +1,116 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="681px" height="185px" viewBox="-0.5 -0.5 681 185" content="&lt;mxfile&gt;&lt;diagram id=&quot;EwPely9QWDk2Lfas1XEJ&quot; name=&quot;Page-1&quot;&gt;7VnbjtowEP0apPahCCchwCOX3bbSrrQqlbr76E1MYq0TR8Ys0K/vOLHJjQAFuvQhEkKZk/Ftzhx7MB17Gm2+CpyEj9wnrGP1/E3HnnUsa+CM4FsBWw3YbgYEgvoZhHJgTn8TDfY0uqI+WZYcJedM0qQMejyOiSdLGBaCr8tuC87KoyY4IDVg7mFWR39RX4YZOrQGOf6N0CA0IyNXLzjCxlmvZBlin68LkH3XsaeCc5k9RZspYSp2Ji5Zu/uGt7uJCRLLUxpYWYN3zFZ6bVMeS7KRenpya9a8XNOI4RisyQJc5voNAhszGsTw7MGgRADwToSkEK6xfiF5AqgXUuY/4C1fqaktJfbejDUJuaC/oVvMdJ/wWkjNvOWWPOaqJcA9QAVZgs+TWS+qQI94U3J8wEupAY8zhpMlfd0tI8IioPGES8kj7aSjA8shm8YIox1vkO+ER0SKLbiYBo6mWuc66mt7nWcOcjUWFrKmr7nBOlmDXdc5n/CgKd1Pb7+J3u+KqQX2yKfPNaZT+hUDgr+RKWccKJ3FPKOeMlaBDPuMLGQj98sEezQOHlKfmZMjP/SCFcSh7YKlcgip75NY8cYlljgjSTGScBrLNCL9CXwgbtNet9/pw8SnYKPcho9yFxKWDGvBNOWLQAasicqC08i19pOrybTc07g0fpdw6da4VKuSJNjWGCSxP1bbHFg8ScMYysgoC15qXSHLCM14+xRHPPZ/hjSuaBA5BrinaoopGcSHbVEPC4EOecBjzO5y9FhyvGqxTciGymczQXh+USN0IX8zc2ZknBpbY8QQwueiUWym7LxdapmGWcDU7A+LGoLKV8Ijpb0SYhAQ7TU4KP0vqKR8O7MEYVjS9/LQ+xJD9/ukMj7v1LYq+4nJN9NFNmXdqrj1VzpyqhtTtaNsobWO0jzdLfak1B3UUnfelLrtMXPeMeNU0+Ijj5lhjd8xCyCQMozag+ZEehu2khscNKN9RYMniCRGtZNWtv9ItvBT6ONka35Otbq9QLej/0a3yK0XgkcLtGJhqGswFZ5CFXZiCdbdFV0vxXcNFVihQtVZAkihsjyvQkPmMqBQoiF7P0EXlmGuWxGubZ9UPcGq8bbgptO1cRyrOo5jH6zqBs5Bf3jIZnBuKWdCfOB0GLenw7XuDoa3PB3qd0Pt6fC3pwNqIPgWx4N9VLnTVrlXUm7tePhQ5Tqtci9XbkPdcAvl1q9x65VeXlC9Mq6UUrzoc2sF1vXqPmfkFCs/1O2puB2p/sB6IoJCKNTWcUHJN6pXfMP9xO1j6tK7OLuscmd05l1cv1fZLtC17uLAzP9Nytzzv+Tsuz8=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-4-37-152-26-0">
+            <rect x="4" y="37" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-284-37-152-26-0">
+            <rect x="284" y="37" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-284-160-152-26-0">
+            <rect x="284" y="160" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-44-160-152-26-0">
+            <rect x="44" y="160" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-524-160-152-26-0">
+            <rect x="524" y="160" width="152" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 0 32 L 0 6 L 160 6 L 160 32" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 32 L 0 58 L 160 58 L 160 32" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 32 L 160 32" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="79.5" y="23.5">
+                Context
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-37-152-26-0)" font-size="12px">
+            <text x="5.5" y="49.5">
+                ContextInterface()
+            </text>
+        </g>
+        <path d="M 175.99 19 L 277.76 19" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 160.99 19 L 168.49 14.59 L 175.99 19 L 168.49 23.41 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 265.88 25.5 L 278.88 19 L 265.88 12.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 13px; margin-left: 162px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 255, 255); white-space: nowrap;">
+                                strategy
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="162" y="13" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="11px">
+                    strategy
+                </text>
+            </switch>
+        </g>
+        <path d="M 280 32 L 280 6 L 440 6 L 440 32" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 280 32 L 280 58 L 440 58 L 440 32" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 280 32 L 440 32" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="359.5" y="23.5">
+                Strategy
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-284-37-152-26-0)" font-size="12px">
+            <text x="285.5" y="49.5">
+                AlgorithmInterface()
+            </text>
+        </g>
+        <path d="M 280 155 L 280 129 L 440 129 L 440 155" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 280 155 L 280 181 L 440 181 L 440 155" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 280 155 L 440 155" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="359.5" y="146.5">
+                ConcreteStrategyB
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-284-160-152-26-0)" font-size="12px">
+            <text x="285.5" y="172.5">
+                AlgorithmInterface()
+            </text>
+        </g>
+        <path d="M 120 129 L 120 109 Q 120 99 130 99 L 590 99 Q 600 99 600 109 L 600 129" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 40 155 L 40 129 L 200 129 L 200 155" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 40 155 L 40 181 L 200 181 L 200 155" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 40 155 L 200 155" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="119.5" y="146.5">
+                ConcreteStrategyA
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-44-160-152-26-0)" font-size="12px">
+            <text x="45.5" y="172.5">
+                AlgorithmInterface()
+            </text>
+        </g>
+        <path d="M 520 155 L 520 129 L 680 129 L 680 155" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 520 155 L 520 181 L 680 181 L 680 155" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 520 155 L 680 155" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="599.5" y="146.5">
+                ConcreteStrategyC
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-524-160-152-26-0)" font-size="12px">
+            <text x="525.5" y="172.5">
+                AlgorithmInterface()
+            </text>
+        </g>
+        <path d="M 360 129 L 359.29 76.69" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 359.06 59.69 L 367.79 76.57 L 350.79 76.8 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
